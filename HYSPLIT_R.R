@@ -29,7 +29,7 @@ library(spData)
 library(spDataLarge)
 library(rgeos)
 
-## commit1
+## commit1 1
 
 devtools::install_github("rich-iannone/splitr", force=TRUE)
 setwd("C:/hysplit/working/HYSPLIT_R")
