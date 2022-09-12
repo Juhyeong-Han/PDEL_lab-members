@@ -9,7 +9,7 @@ from tensorflow.keras.layers import LSTM, Dense, Input, concatenate
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.callbacks import EarlyStopping
 import tensorflow_addons as tfa
-
+# gg
 # 피해도(class 1을 많게, class 0을 적게)
 df = pd.read_csv('벼예찰포 통합자료.csv')
 df['조사병해충'].unique()
